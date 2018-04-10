@@ -1,0 +1,957 @@
+\begin{thebibliography}{100}\itemsep=-1pt
+
+\bibitem{AndoniI06}
+A.~Andoni and P.~Indyk.
+\newblock Near-optimal hashing algorithms for approximate nearest neighbor in
+  high dimensions.
+\newblock In {\em FOCS}, pages 459--468, 2006.
+
+\bibitem{BabenkoK14}
+A.~Babenko and V.~Lempitsky.
+\newblock Additive quantization for extreme vector compression.
+\newblock In {\em CVPR}, pages 931--939, 2014.
+
+\bibitem{BabenkoK15}
+A.~Babenko and V.~Lempitsky.
+\newblock Tree quantization for large-scale similarity search and
+  classification.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{BabenkoL12}
+A.~Babenko and V.~S. Lempitsky.
+\newblock The inverted multi-index.
+\newblock In {\em CVPR}, pages 3069--3076, 2012.
+
+\bibitem{BaluFJ14}
+R.~Balu, T.~Furon, and H.~Jegou.
+\newblock Beyond "project and sign" for cosine estimation with binary codes.
+\newblock In {\em ICASSP}, pages 6884--6888, 2014.
+
+\bibitem{BentleySW77}
+J.~L. Bentley, D.~F. Stanat, and E.~H.~W. Jr.
+\newblock The complexity of finding fixed-radius near neighbors.
+\newblock {\em Inf. Process. Lett.}, 6(6):209--212, 1977.
+
+\bibitem{BergamoTF11}
+A.~Bergamo, L.~Torresani, and A.~W. Fitzgibbon.
+\newblock Picodes: Learning a compact code for novel-category recognition.
+\newblock In {\em NIPS.}, pages 2088--2096, 2011.
+
+\bibitem{BoufounosB08}
+P.~Boufounos and R.~G. Baraniuk.
+\newblock 1-bit compressive sensing.
+\newblock In {\em {CISS}}, pages 16--21, 2008.
+
+\bibitem{Brandt10}
+J.~Brandt.
+\newblock Transform coding for fast approximate nearest neighbor search in high
+  dimensions.
+\newblock In {\em CVPR}, pages 1815--1822, 2010.
+
+\bibitem{Broder97}
+A.~Z. Broder.
+\newblock On the resemblance and containment of documents.
+\newblock In {\em Proceedings of the Compression and Complexity of Sequences
+  1997}, SEQUENCES '97, pages 21--29, Washington, DC, USA, 1997. IEEE Computer
+  Society.
+
+\bibitem{BroderGMZ97}
+A.~Z. Broder, S.~C. Glassman, M.~S. Manasse, and G.~Zweig.
+\newblock Syntactic clustering of the web.
+\newblock {\em Computer Networks}, 29(8-13):1157--1166, 1997.
+
+\bibitem{CakirS15}
+F.~{\c{C}}akir and S.~Sclaroff.
+\newblock Adaptive hashing for fast similarity search.
+\newblock In {\em ICCV}, pages 1044--1052, 2015.
+
+\bibitem{Carreira-Perpinan15}
+M.~{\'{A}}. Carreira{-}Perpi{\~{n}}{\'{a}}n and R.~Raziperchikolaei.
+\newblock Hashing with binary autoencoders.
+\newblock In {\em CVPR}, pages 557--566, 2015.
+
+\bibitem{Charikar02}
+M.~Charikar.
+\newblock Similarity estimation techniques from rounding algorithms.
+\newblock In {\em STOC}, pages 380--388, 2002.
+
+\bibitem{Cherian14}
+A.~Cherian.
+\newblock Nearest neighbors using compact sparse codes.
+\newblock In {\em ICML (2)}, pages 1053--1061, 2014.
+
+\bibitem{CherianMP12}
+A.~Cherian, V.~Morellas, and N.~Papanikolopoulos.
+\newblock Robust sparse hashing.
+\newblock In {\em ICIP}, pages 2417--2420, 2012.
+
+\bibitem{ChumM10}
+O.~Chum and J.~Matas.
+\newblock Large-scale discovery of spatially related images.
+\newblock {\em {IEEE} Trans. Pattern Anal. Mach. Intell.}, 32(2):371--377,
+  2010.
+
+\bibitem{DaiLWJ16}
+Q.~Dai, J.~Li, J.~Wang, and Y.~Jiang.
+\newblock Binary optimized hashing.
+\newblock In {\em {ACM} Multimedia}, pages 1247--1256, 2016.
+
+\bibitem{DasguptaKS11}
+A.~Dasgupta, R.~Kumar, and T.~Sarl{\'o}s.
+\newblock Fast locality-sensitive hashing.
+\newblock In {\em KDD}, pages 1073--1081, 2011.
+
+\bibitem{DatarIIM04}
+M.~Datar, N.~Immorlica, P.~Indyk, and V.~S. Mirrokni.
+\newblock Locality-sensitive hashing scheme based on p-stable distributions.
+\newblock In {\em Symposium on Computational Geometry}, pages 253--262, 2004.
+
+\bibitem{DeanRSSVY13}
+T.~L. Dean, M.~A. Ruzon, M.~Segal, J.~Shlens, S.~Vijayanarasimhan, and
+  J.~Yagnik.
+\newblock Fast, accurate detection of 100, 000 object classes on a single
+  machine.
+\newblock In {\em CVPR}, pages 1814--1821, 2013.
+
+\bibitem{deng2009imagenet}
+J.~Deng, W.~Dong, R.~Socher, L.-J. Li, K.~Li, and L.~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In {\em CVPR}, pages 248--255, 2009.
+
+\bibitem{DingHFP15}
+K.~Ding, C.~Huo, B.~Fan, and C.~Pan.
+\newblock knn hashing with factorized neighborhood representation.
+\newblock In {\em ICCV}, pages 1098--1106, 2015.
+
+\bibitem{DoDC16}
+T.~Do, A.~Doan, and N.~Cheung.
+\newblock Learning to hash with binary deep neural network.
+\newblock In {\em {ECCV}}, pages 219--234, 2016.
+
+\bibitem{DoDNC16}
+T.~Do, A.~Doan, D.~T. Nguyen, and N.~Cheung.
+\newblock Binary hashing with semidefinite relaxation and augmented lagrangian.
+\newblock In {\em {ECCV}}, pages 802--817, 2016.
+
+\bibitem{DuW14}
+C.~Du and J.~Wang.
+\newblock Inner product similarity search using compositional codes.
+\newblock {\em CoRR}, abs/1406.4966, 2014.
+
+\bibitem{Fan13}
+L.~Fan.
+\newblock Supervised binary hash code learning with jensen shannon divergence.
+\newblock In {\em ICCV}, pages 2616--2623, 2013.
+
+\bibitem{FeiFP04}
+L.~Fei-Fei, R.~Fergus, and P.~Perona.
+\newblock Learning generative visual models from few training examples: an
+  incremental bayesian approach tested on 101 object categories.
+\newblock In {\em CVPR 2004 Workshop on Generative-Model Based Vision}, 2004.
+
+\bibitem{GanFFN12}
+J.~Gan, J.~Feng, Q.~Fang, and W.~Ng.
+\newblock Locality-sensitive hashing scheme based on dynamic collision
+  counting.
+\newblock In {\em SIGMOD Conference}, pages 541--552, 2012.
+
+\bibitem{GaoSZZS15}
+L.~Gao, J.~Song, F.~Zou, D.~Zhang, and J.~Shao.
+\newblock Scalable multimedia retrieval by deep learning hashing with relative
+  similarity learning.
+\newblock In {\em ACM Multimedia}, pages 903--906, 2015.
+
+\bibitem{GeHK013}
+T.~Ge, K.~He, Q.~Ke, and J.~Sun.
+\newblock Optimized product quantization for approximate nearest neighbor
+  search.
+\newblock In {\em CVPR}, pages 2946--2953, 2013.
+
+\bibitem{GeH014}
+T.~Ge, K.~He, and J.~Sun.
+\newblock Graph cuts for supervised binary coding.
+\newblock In {\em {ECCV}}, pages 250--264, 2014.
+
+\bibitem{GongKRL13}
+Y.~Gong, S.~Kumar, H.~A. Rowley, and S.~Lazebnik.
+\newblock Learning binary codes for high-dimensional data using bilinear
+  projections.
+\newblock In {\em CVPR}, pages 484--491, 2013.
+
+\bibitem{GongKVL12}
+Y.~Gong, S.~Kumar, V.~Verma, and S.~Lazebnik.
+\newblock Angular quantization-based binary codes for fast similarity search.
+\newblock In {\em NIPS}, pages 1205--1213, 2012.
+
+\bibitem{GongL11}
+Y.~Gong and S.~Lazebnik.
+\newblock Iterative quantization: A procrustean approach to learning binary
+  codes.
+\newblock In {\em CVPR}, pages 817--824, 2011.
+
+\bibitem{GongLGP13}
+Y.~Gong, S.~Lazebnik, A.~Gordo, and F.~Perronnin.
+\newblock Iterative quantization: A procrustean approach to learning binary
+  codes for large-scale image retrieval.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 35(12):2916--2929,
+  2013.
+
+\bibitem{GordoPGL14}
+A.~Gordo, F.~Perronnin, Y.~Gong, and S.~Lazebnik.
+\newblock Asymmetric distances for binary embeddings.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 36(1):33--47, 2014.
+
+\bibitem{GrayN98}
+R.~M. Gray and D.~L. Neuhoff.
+\newblock Quantization.
+\newblock {\em IEEE Transactions on Information Theory}, 44(6):2325--2383,
+  1998.
+
+\bibitem{HeCRB11}
+J.~He, S.-F. Chang, R.~Radhakrishnan, and C.~Bauer.
+\newblock Compact hashing with joint optimization of search accuracy and time.
+\newblock In {\em CVPR}, pages 753--760, 2011.
+
+\bibitem{HeLC10}
+J.~He, W.~Liu, and S.-F. Chang.
+\newblock Scalable similarity search with optimized kernel hashing.
+\newblock In {\em KDD}, pages 1129--1138, 2010.
+
+\bibitem{HeoLHCY12}
+J.-P. Heo, Y.~Lee, J.~He, S.-F. Chang, and S.-E. Yoon.
+\newblock Spherical hashing.
+\newblock In {\em CVPR}, pages 2957--2964, 2012.
+
+\bibitem{HeoLY14}
+J.-P. Heo, Z.~Lin, and S.-E. Yoon.
+\newblock Distance encoded product quantization.
+\newblock In {\em CVPR}, pages 2139--2146, 2014.
+
+\bibitem{HuangYZ13}
+L.-K. Huang, Q.~Yang, and W.-S. Zheng.
+\newblock Online hashing.
+\newblock In {\em IJCAI}, 2013.
+
+\bibitem{IndykM98}
+P.~Indyk and R.~Motwani.
+\newblock Approximate nearest neighbors: Towards removing the curse of
+  dimensionality.
+\newblock In {\em STOC}, pages 604--613, 1998.
+
+\bibitem{IrieAT15}
+G.~Irie, H.~Arai, and Y.~Taniguchi.
+\newblock Alternating co-quantization for cross-modal hashing.
+\newblock In {\em ICCV}, pages 1886--1894, 2015.
+
+\bibitem{IrieLWC14}
+G.~Irie, Z.~Li, X.-M. Wu, and S.-F. Chang.
+\newblock Locally linear hashing for extracting non-linear manifolds.
+\newblock In {\em CVPR}, pages 2123--2130, 2014.
+
+\bibitem{JainPGZJ16}
+H.~Jain, P.~P{\'{e}}rez, R.~Gribonval, J.~Zepeda, and H.~J{\'{e}}gou.
+\newblock Approximate search with quantized sparse representations.
+\newblock In {\em {ECCV}}, pages 681--696, 2016.
+
+\bibitem{JegouASG08}
+H.~Jegou, L.~Amsaleg, C.~Schmid, and P.~Gros.
+\newblock Query adaptative locality sensitive hashing.
+\newblock In {\em {ICASSP}}, pages 825--828, 2008.
+
+\bibitem{JegouDS08}
+H.~Jegou, M.~Douze, and C.~Schmid.
+\newblock Hamming embedding and weak geometric consistency for large scale
+  image search.
+\newblock In {\em ECCV}, pages 304--317, 2008.
+
+\bibitem{JegouDS11}
+H.~J{\'e}gou, M.~Douze, and C.~Schmid.
+\newblock Product quantization for nearest neighbor search.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 33(1):117--128, 2011.
+
+\bibitem{JegouDSP10}
+H.~J{\'e}gou, M.~Douze, C.~Schmid, and P.~P{\'e}rez.
+\newblock Aggregating local descriptors into a compact image representation.
+\newblock In {\em CVPR}, pages 3304--3311, 2010.
+
+\bibitem{JegouFF12}
+H.~J{\'e}gou, T.~Furon, and J.-J. Fuchs.
+\newblock Anti-sparse coding for approximate nearest neighbor search.
+\newblock In {\em ICASSP}, pages 2029--2032, 2012.
+
+\bibitem{JegouTDA11}
+H.~J{\'e}gou, R.~Tavenard, M.~Douze, and L.~Amsaleg.
+\newblock Searching in one billion vectors: Re-rank with source coding.
+\newblock In {\em ICASSP}, pages 861--864, 2011.
+
+\bibitem{JiLYTZ13}
+J.~Ji, J.~Li, S.~Yan, Q.~Tian, and B.~Zhang.
+\newblock Min-max hash for jaccard similarity.
+\newblock In {\em ICDM}, pages 301--309, 2013.
+
+\bibitem{JiLYZT12}
+J.~Ji, J.~Li, S.~Yan, B.~Zhang, and Q.~Tian.
+\newblock Super-bit locality-sensitive hashing.
+\newblock In {\em NIPS}, pages 108--116, 2012.
+
+\bibitem{JiangL15}
+Q.~Jiang and W.~Li.
+\newblock Scalable graph hashing with feature transformation.
+\newblock In {\em IJCAI}, pages 2248--2254, 2015.
+
+\bibitem{JiangWC11}
+Y.-G. Jiang, J.~Wang, and S.-F. Chang.
+\newblock Lost in binarization: query-adaptive ranking for similar image search
+  with compact codes.
+\newblock In {\em ICMR}, page~16, 2011.
+
+\bibitem{JiangWXC13}
+Y.-G. Jiang, J.~Wang, X.~Xue, and S.-F. Chang.
+\newblock Query-adaptive image search with hash codes.
+\newblock {\em IEEE Transactions on Multimedia}, 15(2):442--453, 2013.
+
+\bibitem{JiangXDXW16}
+Z.~Jiang, L.~Xie, X.~Deng, W.~Xu, and J.~Wang.
+\newblock Fast nearest neighbor search in the hamming space.
+\newblock In {\em {MMM}}, pages 325--336, 2016.
+
+\bibitem{JinHLZLCL13}
+Z.~Jin, Y.~Hu, Y.~Lin, D.~Zhang, S.~Lin, D.~Cai, and X.~Li.
+\newblock Complementary projection hashing.
+\newblock In {\em ICCV}, pages 257--264, 2013.
+
+\bibitem{JolyB11}
+A.~Joly and O.~Buisson.
+\newblock Random maximum margin hashing.
+\newblock In {\em CVPR}, pages 873--880, 2011.
+
+\bibitem{KalantidisA14}
+Y.~Kalantidis and Y.~Avrithis.
+\newblock Locally optimized product quantization for approximate nearest
+  neighbor search.
+\newblock In {\em CVPR}, pages 2329--2336, 2014.
+
+\bibitem{KongL12a}
+W.~Kong and W.-J. Li.
+\newblock Isotropic hashing.
+\newblock In {\em NIPS}, pages 1655--1663, 2012.
+
+\bibitem{KoudasOST04}
+N.~Koudas, B.~C. Ooi, H.~T. Shen, and A.~K.~H. Tung.
+\newblock Ldc: Enabling search by partial distance in a hyper-dimensional
+  space.
+\newblock In {\em ICDE}, pages 6--17, 2004.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em NIPS}, pages 1097--1105, 2012.
+
+\bibitem{KulisD09}
+B.~Kulis and T.~Darrell.
+\newblock Learning to hash with binary reconstructive embeddings.
+\newblock In {\em NIPS}, pages 1042--1050, 2009.
+
+\bibitem{LaiPLY15}
+H.~Lai, Y.~Pan, Y.~Liu, and S.~Yan.
+\newblock Simultaneous feature learning and hash coding with deep neural
+  networks.
+\newblock In {\em CVPR}, pages 3270--3278, 2015.
+
+\bibitem{LeCunBBH01}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock In {\em Intelligent Signal Processing}, pages 306--351. IEEE Press,
+  2001.
+
+\bibitem{LengWC0L15}
+C.~Leng, J.~Wu, J.~Cheng, X.~Bai, and H.~Lu.
+\newblock Online sketching hashing.
+\newblock In {\em CVPR}, pages 2503--2511, 2015.
+
+\bibitem{LiCH06}
+P.~Li, K.~W. Church, and T.~Hastie.
+\newblock Conditional random sampling: A sketch-based sampling technique for
+  sparse data.
+\newblock In {\em NIPS}, pages 873--880, 2006.
+
+\bibitem{LiHC06}
+P.~Li, T.~Hastie, and K.~W. Church.
+\newblock Very sparse random projections.
+\newblock In {\em KDD}, pages 287--296, 2006.
+
+\bibitem{LiK10b}
+P.~Li and A.~C. K{\"o}nig.
+\newblock b-bit minwise hashing.
+\newblock In {\em WWW}, pages 671--680, 2010.
+
+\bibitem{LiKG10a}
+P.~Li, A.~C. K{\"o}nig, and W.~Gui.
+\newblock b-bit minwise hashing for estimating three-way similarities.
+\newblock In {\em NIPS}, pages 1387--1395, 2010.
+
+\bibitem{LiOZ12}
+P.~Li, A.~B. Owen, and C.-H. Zhang.
+\newblock One permutation hashing.
+\newblock In {\em NIPS}, pages 3122--3130, 2012.
+
+\bibitem{LiWCXL13}
+P.~Li, M.~Wang, J.~Cheng, C.~Xu, and H.~Lu.
+\newblock Spectral hashing with semantically consistent graph for image
+  indexing.
+\newblock {\em IEEE Transactions on Multimedia}, 15(1):141--152, 2013.
+
+\bibitem{LinSSHS14}
+G.~Lin, C.~Shen, Q.~Shi, A.~van\_den\_Hengel, and D.~Suter.
+\newblock Fast supervised hashing with decision trees for high-dimensional
+  data.
+\newblock In {\em CVPR}, pages 1971--1978, 2014.
+
+\bibitem{LinSSH13}
+G.~Lin, C.~Shen, D.~Suter, and A.~van~den Hengel.
+\newblock A general two-step approach to learning-based hashing.
+\newblock In {\em ICCV}, pages 2552--2559, 2013.
+
+\bibitem{LinRY10}
+R.-S. Lin, D.~A. Ross, and J.~Yagnik.
+\newblock Spec hashing: Similarity preserving algorithm for entropy-based
+  coding.
+\newblock In {\em CVPR}, pages 848--854, 2010.
+
+\bibitem{LinJCYL13}
+Y.~Lin, R.~Jin, D.~Cai, S.~Yan, and X.~Li.
+\newblock Compressed hashing.
+\newblock In {\em CVPR}, pages 446--451, 2013.
+
+\bibitem{LiongLWMZ15}
+V.~E. Liong, J.~Lu, G.~Wang, P.~Moulin, and J.~Zhou.
+\newblock Deep hashing for compact binary codes learning.
+\newblock In {\em CVPR}, pages 2475--2483, 2015.
+
+\bibitem{LiuYJHZ13}
+D.~Liu, S.~Yan, R.-R. Ji, X.-S. Hua, and H.-J. Zhang.
+\newblock Image retrieval with query-adaptive hashing.
+\newblock {\em TOMCCAP}, 9(1):2, 2013.
+
+\bibitem{Liu0SC16}
+H.~Liu, R.~Wang, S.~Shan, and X.~Chen.
+\newblock Deep supervised hashing for fast image retrieval.
+\newblock In {\em {CVPR}}, pages 2064--2072, 2016.
+
+\bibitem{LiuLSSDH17}
+L.~Liu, Z.~Lin, L.~Shao, F.~Shen, G.~Ding, and J.~Han.
+\newblock Sequential discrete hashing for scalable cross-modality similarity
+  retrieval.
+\newblock {\em {IEEE} Trans. Image Processing}, 26(1):107--118, 2017.
+
+\bibitem{LiuMKC14}
+W.~Liu, C.~Mu, S.~Kumar, and S.~Chang.
+\newblock Discrete graph hashing.
+\newblock In {\em NIPS}, pages 3419--3427, 2014.
+
+\bibitem{LiuWJJC12}
+W.~Liu, J.~Wang, R.~Ji, Y.-G. Jiang, and S.-F. Chang.
+\newblock Supervised hashing with kernels.
+\newblock In {\em CVPR}, pages 2074--2081, 2012.
+
+\bibitem{LiuWKC11}
+W.~Liu, J.~Wang, S.~Kumar, and S.-F. Chang.
+\newblock Hashing with graphs.
+\newblock In {\em ICML}, pages 1--8, 2011.
+
+\bibitem{LiuWMKC12}
+W.~Liu, J.~Wang, Y.~Mu, S.~Kumar, and S.-F. Chang.
+\newblock Compact hyperplane hashing with bilinear functions.
+\newblock In {\em ICML}, 2012.
+
+\bibitem{LiuDLTL16}
+X.~Liu, C.~Deng, B.~Lang, D.~Tao, and X.~Li.
+\newblock Query-adaptive reciprocal hash tables for nearest neighbor search.
+\newblock {\em {IEEE} Transactions on Image Processing}, 25(2):907--919, 2016.
+
+\bibitem{LiuHDL14}
+X.~Liu, J.~He, C.~Deng, and B.~Lang.
+\newblock Collaborative hashing.
+\newblock In {\em CVPR}, pages 2147--2154, 2014.
+
+\bibitem{LiuHL13}
+X.~Liu, J.~He, and B.~Lang.
+\newblock Reciprocal hash tables for nearest neighbor search.
+\newblock In {\em AAAI}, 2013.
+
+\bibitem{LiuHDLL15}
+X.~Liu, L.~Huang, C.~Deng, J.~Lu, and B.~Lang.
+\newblock Multi-view complementary hash tables for nearest neighbor search.
+\newblock In {\em ICCV}, pages 1107--1115, 2015.
+
+\bibitem{LiuSXWZ13}
+Y.~Liu, J.~Shao, J.~Xiao, F.~Wu, and Y.~Zhuang.
+\newblock Hypergraph spectral hashing for image retrieval with heterogeneous
+  social contexts.
+\newblock {\em Neurocomputing}, 119:49--58, 2013.
+
+\bibitem{LiuWYZH12}
+Y.~Liu, F.~Wu, Y.~Yang, Y.~Zhuang, and A.~G. Hauptmann.
+\newblock Spline regression hashing for fast image search.
+\newblock {\em IEEE Transactions on Image Processing}, 21(10):4480--4491, 2012.
+
+\bibitem{Lowe04}
+D.~G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em International Journal of Computer Vision}, 60(2):91--110, 2004.
+
+\bibitem{LvJWCL07}
+Q.~Lv, W.~Josephson, Z.~Wang, M.~Charikar, and K.~Li.
+\newblock Multi-probe lsh: Efficient indexing for high-dimensional similarity
+  search.
+\newblock In {\em VLDB}, pages 950--961, 2007.
+
+\bibitem{MartinezCHL16}
+J.~Martinez, J.~Clement, H.~H. Hoos, and J.~J. Little.
+\newblock Revisiting additive quantization.
+\newblock In {\em {ECCV}}, pages 137--153, 2016.
+
+\bibitem{MatsuiYA15}
+Y.~Matsui, T.~Yamasaki, and K.~Aizawa.
+\newblock Pqtable: Fast exact asymmetric distance neighbor search for product
+  quantization using hash tables.
+\newblock In {\em ICCV}, pages 1940--1948, 2015.
+
+\bibitem{MatsushitaW09}
+Y.~Matsushita and T.~Wada.
+\newblock Principal component hashing: An accelerated approximate nearest
+  neighbor search.
+\newblock In {\em PSIVT}, pages 374--385, 2009.
+
+\bibitem{MoonNPLSHP16}
+Y.~Moon, S.~Noh, D.~Park, C.~Luo, A.~Shrivastava, S.~Hong, and K.~Palem.
+\newblock Capsule: A camera-based positioning system using learning.
+\newblock In {\em {SOCC}}, 2015.
+
+\bibitem{MotwaniNP07}
+R.~Motwani, A.~Naor, and R.~Panigrahy.
+\newblock Lower bounds on locality sensitive hashing.
+\newblock {\em SIAM J. Discrete Math.}, 21(4):930--935, 2007.
+
+\bibitem{MuCLCY12}
+Y.~Mu, X.~Chen, X.~Liu, T.-S. Chua, and S.~Yan.
+\newblock Multimedia semantics-aware query-adaptive hashing with bits
+  reconfigurability.
+\newblock {\em IJMIR}, 1(1):59--70, 2012.
+
+\bibitem{MuSY10}
+Y.~Mu, J.~Shen, and S.~Yan.
+\newblock Weakly-supervised hashing in kernel space.
+\newblock In {\em CVPR}, pages 3344--3351, 2010.
+
+\bibitem{MujaL09}
+M.~Muja and D.~G. Lowe.
+\newblock Fast approximate nearest neighbors with automatic algorithm
+  configuration.
+\newblock In {\em VISSAPP (1)}, pages 331--340, 2009.
+
+\bibitem{MujaL12}
+M.~Muja and D.~G. Lowe.
+\newblock Fast matching of binary features.
+\newblock In {\em CRV}, pages 404--410, 2012.
+
+\bibitem{MujaL14}
+M.~Muja and D.~G. Lowe.
+\newblock Scalable nearest neighbor algorithms for high dimensional data.
+\newblock {\em {IEEE} Trans. Pattern Anal. Mach. Intell.}, 36(11):2227--2240,
+  2014.
+
+\bibitem{MukherjeeRIHS15}
+L.~Mukherjee, S.~N. Ravi, V.~K. Ithapu, T.~Holmes, and V.~Singh.
+\newblock An {NMF} perspective on binary hashing.
+\newblock In {\em ICCV}, pages 4184--4192, 2015.
+
+\bibitem{NorouziF11}
+M.~Norouzi and D.~J. Fleet.
+\newblock Minimal loss hashing for compact binary codes.
+\newblock In {\em ICML}, pages 353--360, 2011.
+
+\bibitem{NorouziF13}
+M.~Norouzi and D.~J. Fleet.
+\newblock Cartesian k-means.
+\newblock In {\em CVPR}, pages 3017--3024, 2013.
+
+\bibitem{NorouziFS12}
+M.~Norouzi, D.~J. Fleet, and R.~Salakhutdinov.
+\newblock Hamming distance metric learning.
+\newblock In {\em NIPS}, pages 1070--1078, 2012.
+
+\bibitem{NorouziPF12}
+M.~Norouzi, A.~Punjani, and D.~J. Fleet.
+\newblock Fast search in hamming space with multi-index hashing.
+\newblock In {\em CVPR}, pages 3108--3115, 2012.
+
+\bibitem{ODonnellWZ11}
+R.~O'Donnell, Y.~Wu, and Y.~Zhou.
+\newblock Optimal lower bounds for locality sensitive hashing (except when q is
+  tiny).
+\newblock In {\em ICS}, pages 275--283, 2011.
+
+\bibitem{OlivaT01}
+A.~Oliva and A.~Torralba.
+\newblock Modeling the shape of the scene: A holistic representation of the
+  spatial envelope.
+\newblock {\em International Journal of Computer Vision}, 42(3):145--175, 2001.
+
+\bibitem{Panigrahy06}
+R.~Panigrahy.
+\newblock Entropy based nearest neighbor search in high dimensions.
+\newblock In {\em SODA}, pages 1186--1195, 2006.
+
+\bibitem{PauleveJA10}
+L.~Paulev{\'e}, H.~J{\'e}gou, and L.~Amsaleg.
+\newblock Locality sensitive hashing: A comparison of hash function types and
+  querying mechanisms.
+\newblock {\em Pattern Recognition Letters}, 31(11):1348--1358, 2010.
+
+\bibitem{pennington2014glove}
+J.~Pennington, R.~Socher, and C.~D. Manning.
+\newblock Glove: Global vectors for word representation.
+\newblock In {\em Empirical Methods in Natural Language Processing (EMNLP)},
+  pages 1532--1543, 2014.
+
+\bibitem{PerronninLSP10}
+F.~Perronnin, Y.~Liu, J.~S{\'{a}}nchez, and H.~Poirier.
+\newblock Large-scale image retrieval with compressed fisher vectors.
+\newblock In {\em {CVPR}}, pages 3384--3391, 2010.
+
+\bibitem{QinCGG14b}
+D.~Qin, X.~Chen, M.~Guillaumin, and L.~J.~V. Gool.
+\newblock Quantized kernel learning for feature matching.
+\newblock In {\em {NIPS}}, pages 172--180, 2014.
+
+\bibitem{QinCGG14a}
+D.~Qin, Y.~Chen, M.~Guillaumin, and L.~J.~V. Gool.
+\newblock Learning to rank histograms for object retrieval.
+\newblock In {\em {BMVC}}, 2014.
+
+\bibitem{RussellTMF08}
+B.~C. Russell, A.~Torralba, K.~P. Murphy, and W.~T. Freeman.
+\newblock Labelme: {A} database and web-based tool for image annotation.
+\newblock {\em International Journal of Computer Vision}, 77(1-3):157--173,
+  2008.
+
+\bibitem{SalakhutdinovH07}
+R.~Salakhutdinov and G.~E. Hinton.
+\newblock Semantic hashing.
+\newblock In {\em SIGIR workshop on Information Retrieval and applications of
+  Graphical Models}, 2007.
+
+\bibitem{SalakhutdinovH09}
+R.~Salakhutdinov and G.~E. Hinton.
+\newblock Semantic hashing.
+\newblock {\em Int. J. Approx. Reasoning}, 50(7):969--978, 2009.
+
+\bibitem{SanchezP11}
+J.~S{\'{a}}nchez and F.~Perronnin.
+\newblock High-dimensional signature compression for large-scale image
+  classification.
+\newblock In {\em CVPR}, pages 1665--1672, 2011.
+
+\bibitem{SandhawaliaJ10}
+H.~Sandhawalia and H.~Jegou.
+\newblock Searching with expectations.
+\newblock In {\em {ICASSP}}, pages 1242--1245, 2010.
+
+\bibitem{ShaoWOZ12}
+J.~Shao, F.~Wu, C.~Ouyang, and X.~Zhang.
+\newblock Sparse spectral hashing.
+\newblock {\em Pattern Recognition Letters}, 33(3):271--277, 2012.
+
+\bibitem{ShenSLS15}
+F.~Shen, C.~Shen, W.~Liu, and H.~T. Shen.
+\newblock Supervised discrete hashing.
+\newblock In {\em {CVPR}}, pages 37--45, 2015.
+
+\bibitem{ShenSSHT13}
+F.~Shen, C.~Shen, Q.~Shi, A.~van~den Hengel, and Z.~Tang.
+\newblock Inductive hashing on manifolds.
+\newblock In {\em CVPR}, pages 1562--1569, 2013.
+
+\bibitem{ShenZ0SST16}
+F.~Shen, X.~Zhou, Y.~Yang, J.~Song, H.~T. Shen, and D.~Tao.
+\newblock A fast optimization method for general binary code learning.
+\newblock {\em {IEEE} Trans. Image Processing}, 25(12):5610--5621, 2016.
+
+\bibitem{ShiXCZXY16}
+X.~Shi, F.~Xing, J.~Cai, Z.~Zhang, Y.~Xie, and L.~Yang.
+\newblock Kernel-based supervised discrete hashing for image retrieval.
+\newblock In {\em {ECCV}}, pages 419--433, 2016.
+
+\bibitem{ShrivastavaL12}
+A.~Shrivastava and P.~Li.
+\newblock Fast near neighbor search in high-dimensional binary data.
+\newblock In {\em {ECML} {PKDD}}, pages 474--489, 2012.
+
+\bibitem{ShrivastavaL14}
+A.~Shrivastava and P.~Li.
+\newblock Densifying one permutation hashing via rotation for fast near
+  neighbor.
+\newblock In {\em ICML (1)}, pages 557--65, 2014.
+
+\bibitem{SnavelySS06}
+N.~Snavely, S.~M. Seitz, and R.~Szeliski.
+\newblock Photo tourism: exploring photo collections in 3d.
+\newblock {\em {ACM} Trans. Graph.}, 25(3):835--846, 2006.
+
+\bibitem{SongLJMS15}
+D.~Song, W.~Liu, R.~Ji, D.~A. Meyer, and J.~R. Smith.
+\newblock Top rank supervised binary coding for visual search.
+\newblock In {\em ICCV}, pages 1922--1930, 2015.
+
+\bibitem{SongSWHSW16}
+J.~Song, H.~T. Shen, J.~Wang, Z.~Huang, N.~Sebe, and J.~Wang.
+\newblock A distance-computation-free search scheme for binary code databases.
+\newblock {\em {IEEE} Trans. Multimedia}, 18(3):484--495, 2016.
+
+\bibitem{SongYHSL13}
+J.~Song, Y.~Yang, Z.~Huang, H.~T. Shen, and J.~Luo.
+\newblock Effective multiple feature hashing for large-scale near-duplicate
+  video retrieval.
+\newblock {\em IEEE Transactions on Multimedia}, 15(8):1997--2008, 2013.
+
+\bibitem{SongYYHS13}
+J.~Song, Y.~Yang, Y.~Yang, Z.~Huang, and H.~T. Shen.
+\newblock Inter-media hashing for large-scale retrieval from heterogeneous data
+  sources.
+\newblock In {\em SIGMOD Conference}, pages 785--796, 2013.
+
+\bibitem{StrechaBBF12}
+C.~Strecha, A.~M. Bronstein, M.~M. Bronstein, and P.~Fua.
+\newblock Ldahash: Improved matching with smaller descriptors.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 34(1):66--78, 2012.
+
+\bibitem{TorralbaFF08}
+A.~B. Torralba, R.~Fergus, and W.~T. Freeman.
+\newblock 80 million tiny images: A large data set for nonparametric object and
+  scene recognition.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 30(11):1958--1970,
+  2008.
+
+\bibitem{VedaldiZisserman12}
+A.~Vedaldi and A.~Zisserman.
+\newblock Efficient additive kernels via explicit feature maps.
+\newblock {\em {IEEE} Trans. Pattern Anal. Mach. Intell.}, 34(3):480--492,
+  2012.
+
+\bibitem{VedaldiZ12}
+A.~Vedaldi and A.~Zisserman.
+\newblock Sparse kernel approximations for efficient classification and
+  detection.
+\newblock In {\em CVPR}, pages 2320--2327, 2012.
+
+\bibitem{AhnLB06}
+L.~von Ahn, R.~Liu, and M.~Blum.
+\newblock Peekaboom: a game for locating objects in images.
+\newblock In {\em CHI}, pages 55--64, 2006.
+
+\bibitem{WangKC10a}
+J.~Wang, O.~Kumar, and S.-F. Chang.
+\newblock Semi-supervised hashing for scalable image retrieval.
+\newblock In {\em CVPR}, pages 3424--3431, 2010.
+
+\bibitem{WangKC10b}
+J.~Wang, S.~Kumar, and S.-F. Chang.
+\newblock Sequential projection learning for hashing with compact codes.
+\newblock In {\em ICML}, pages 1127--1134, 2010.
+
+\bibitem{WangKC12}
+J.~Wang, S.~Kumar, and S.-F. Chang.
+\newblock Semi-supervised hashing for large-scale search.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 34(12):2393--2406,
+  2012.
+
+\bibitem{WangL12}
+J.~Wang and S.~Li.
+\newblock Query-driven iterated neighborhood graph search for large scale
+  indexing.
+\newblock In {\em {ACM} Multimedia}, pages 179--188, 2012.
+
+\bibitem{WangLKC16}
+J.~Wang, W.~Liu, S.~Kumar, and S.~Chang.
+\newblock Learning to hash for indexing big data - {A} survey.
+\newblock {\em Proceedings of the {IEEE}}, 104(1):34--57, 2016.
+
+\bibitem{WangLSJ13}
+J.~Wang, W.~Liu, A.~X. Sun, and Y.-G. Jiang.
+\newblock Learning hash codes with listwise supervision.
+\newblock In {\em ICCV}, pages 3032--3039, 2013.
+
+\bibitem{WangSSJ14}
+J.~Wang, H.~T. Shen, J.~Song, and J.~Ji.
+\newblock Hashing for similarity search: {A} survey.
+\newblock {\em CoRR}, abs/1408.2927, 2014.
+
+\bibitem{WangSYYLW14}
+J.~Wang, H.~T. Shen, S.~Yan, N.~Yu, S.~Li, and J.~Wang.
+\newblock Optimized distances for binary code ranking.
+\newblock In {\em ACM Multimedia}, pages 517--526, 2014.
+
+\bibitem{WangWSXSL14}
+J.~Wang, J.~Wang, J.~Song, X.-S. Xu, H.~T. Shen, and S.~Li.
+\newblock Optimized cartesian $k$-means.
+\newblock {\em CoRR}, abs/1405.4054, 2014.
+
+\bibitem{WangWYL13}
+J.~Wang, J.~Wang, N.~Yu, and S.~Li.
+\newblock Order preserving hashing for approximate nearest neighbor search.
+\newblock In {\em ACM Multimedia}, pages 133--142, 2013.
+
+\bibitem{WangWZGLG13}
+J.~Wang, J.~Wang, G.~Zeng, R.~Gan, S.~Li, and B.~Guo.
+\newblock Fast neighborhood graph search using cartesian concatenation.
+\newblock In {\em ICCV}, pages 2128--2135, 2013.
+
+\bibitem{WangWJLZZH13}
+J.~Wang, N.~Wang, Y.~Jia, J.~Li, G.~Zeng, H.~Zha, and X.-S. Hua.
+\newblock Trinary-projection trees for approximate nearest neighbor search.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 2013.
+
+\bibitem{WangZS13}
+Q.~Wang, D.~Zhang, and L.~Si.
+\newblock Weighted hashing for fast large scale similarity search.
+\newblock In {\em CIKM}, pages 1185--1188, 2013.
+
+\bibitem{WangZQTW16}
+X.~Wang, T.~Zhang, G.-J. Qi, J.~Tang, and J.~Wang.
+\newblock Supervised quantization for similarity search.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{WeissFT12}
+Y.~Weiss, R.~Fergus, and A.~Torralba.
+\newblock Multidimensional spectral hashing.
+\newblock In {\em ECCV (5)}, pages 340--353, 2012.
+
+\bibitem{WeissTF08}
+Y.~Weiss, A.~Torralba, and R.~Fergus.
+\newblock Spectral hashing.
+\newblock In {\em NIPS}, pages 1753--1760, 2008.
+
+\bibitem{WuZCCB13}
+C.~Wu, J.~Zhu, D.~Cai, C.~Chen, and J.~Bu.
+\newblock Semi-supervised nonlinear hashing using bootstrap sequential
+  projection learning.
+\newblock {\em IEEE Trans. Knowl. Data Eng.}, 25(6):1380--1393, 2013.
+
+\bibitem{XiaPLLY14}
+R.~Xia, Y.~Pan, H.~Lai, C.~Liu, and S.~Yan.
+\newblock Supervised hashing for image retrieval via image representation
+  learning.
+\newblock In {\em AAAI}, pages 2156--2162, 2014.
+
+\bibitem{XuBLCHC13}
+B.~Xu, J.~Bu, Y.~Lin, C.~Chen, X.~He, and D.~Cai.
+\newblock Harmonious hashing.
+\newblock In {\em IJCAI}, 2013.
+
+\bibitem{XuWLZLY11}
+H.~Xu, J.~Wang, Z.~Li, G.~Zeng, S.~Li, and N.~Yu.
+\newblock Complementary hashing for approximate nearest neighbor search.
+\newblock In {\em ICCV}, pages 1631--1638, 2011.
+
+\bibitem{XuSYSL17}
+X.~Xu, F.~Shen, Y.~Yang, H.~T. Shen, and X.~Li.
+\newblock Learning discriminative binary codes for large-scale cross-modal
+  retrieval.
+\newblock {\em IEEE Transactions on Image Processing}, 26(5):2494--2507, May
+  2017.
+
+\bibitem{YangBZRZC14}
+H.~Yang, X.~Bai, J.~Zhou, P.~Ren, Z.~Zhang, and J.~Cheng.
+\newblock Adaptive object retrieval with kernel reconstructive hashing.
+\newblock In {\em CVPR}, pages 1955--1962, 2014.
+
+\bibitem{YangHZL13}
+Q.~Yang, L.-K. Huang, W.-S. Zheng, and Y.~Ling.
+\newblock Smart hashing update for fast response.
+\newblock In {\em IJCAI}, 2013.
+
+\bibitem{YangSSLL15}
+Y.~Yang, F.~Shen, H.~T. Shen, H.~Li, and X.~Li.
+\newblock Robust discrete spectral hashing for large-scale image semantic
+  indexing.
+\newblock {\em {IEEE} Trans. Big Data}, 1(4):162--171, 2015.
+
+\bibitem{YuKGC14}
+F.~Yu, S.~Kumar, Y.~Gong, and S.-F. Chang.
+\newblock Circulant binary embedding.
+\newblock In {\em ICML (2)}, pages 946--954, 2014.
+
+\bibitem{ZhangWCL10b}
+D.~Zhang, J.~Wang, D.~Cai, and J.~Lu.
+\newblock Self-taught hashing for fast similarity search.
+\newblock In {\em SIGIR}, pages 18--25, 2010.
+
+\bibitem{ZhangSLHLC16}
+H.~Zhang, F.~Shen, W.~Liu, X.~He, H.~Luan, and T.~Chua.
+\newblock Discrete collaborative filtering.
+\newblock In {\em {SIGIR}}, pages 325--334, 2016.
+
+\bibitem{ZhangZSLC16}
+H.~Zhang, N.~Zhao, X.~Shang, H.~Luan, and T.~Chua.
+\newblock Discrete image hashing using large weakly annotated photo
+  collections.
+\newblock In {\em {AAAI}}, pages 3669--3675, 2016.
+
+\bibitem{ZhangZTGLT13}
+L.~Zhang, Y.~Zhang, J.~Tang, X.~Gu, J.~Li, and Q.~Tian.
+\newblock Topology preserving hashing for similarity search.
+\newblock In {\em ACM Multimedia}, pages 123--132, 2013.
+
+\bibitem{ZhangLGZ16}
+S.~Zhang, J.~Li, J.~Guo, and B.~Zhang.
+\newblock Scalable discrete supervised hash learning with asymmetric matrix
+  factorization.
+\newblock {\em CoRR}, abs/1609.08740, 2016.
+
+\bibitem{ZhangDW14}
+T.~Zhang, C.~Du, and J.~Wang.
+\newblock Composite quantization for approximate nearest neighbor search.
+\newblock In {\em ICML (2)}, pages 838--846, 2014.
+
+\bibitem{ZhangQTW15}
+T.~Zhang, G.-J. Qi, J.~Tang, and J.~Wang.
+\newblock Sparse composite quantization.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{ZhangW16}
+T.~Zhang and J.~Wang.
+\newblock Collaborative quantization for cross-modal similarity search.
+\newblock In {\em {CVPR}}, pages 2036--2045, 2016.
+
+\bibitem{ZhaoHWT15}
+F.~Zhao, Y.~Huang, L.~Wang, and T.~Tan.
+\newblock Deep semantic ranking based hashing for multi-label image retrieval.
+\newblock In {\em CVPR}, pages 1556--1564, 2015.
+
+\bibitem{ZhaoLM14}
+K.~Zhao, H.~Lu, and J.~Mei.
+\newblock Locality preserving hashing.
+\newblock In {\em AAAI}, pages 2874--2881, 2014.
+
+\bibitem{ZhenY13}
+Y.~Zhen and D.-Y. Yeung.
+\newblock Active hashing and its application to image and text retrieval.
+\newblock {\em Data Min. Knowl. Discov.}, 26(2):255--274, 2013.
+
+\bibitem{ZhuHCCS13}
+X.~Zhu, Z.~Huang, H.~Cheng, J.~Cui, and H.~T. Shen.
+\newblock Sparse hashing for fast multimedia search.
+\newblock {\em ACM Trans. Inf. Syst.}, 31(2):9, 2013.
+
+\bibitem{ZhuHSZ13}
+X.~Zhu, Z.~Huang, H.~T. Shen, and X.~Zhao.
+\newblock Linear cross-modal hashing for efficient multimedia search.
+\newblock In {\em ACM Multimedia}, pages 143--152, 2013.
+
+\bibitem{ZhuangLWZS11}
+Y.~Zhuang, Y.~Liu, F.~Wu, Y.~Zhang, and J.~Shao.
+\newblock Hypergraph spectral hashing for similarity search of social image.
+\newblock In {\em ACM Multimedia}, pages 1457--1460, 2011.
+
+\end{thebibliography}

@@ -1,0 +1,955 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.21)  10 APR 2018 10:26
+entering extended mode
+**./Learning-To-Hash.tex
+(Learning-To-Hash.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+(IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 458.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1039.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen125
+))
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen126
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen127
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks16
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks17
+\eqnshift@=\dimen128
+\alignsep@=\dimen129
+\tagshift@=\dimen130
+\tagwidth@=\dimen131
+\totwidth@=\dimen132
+\lineht@=\dimen133
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+y"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cf
+g"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex
+.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
+))
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.
+sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks20
+\float@box=\box30
+\@float@everytoks=\toks21
+\@floatcapt=\box31
+) ("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks22
+\c@algorithm=\count108
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\algorithms\algori
+thmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count109
+\c@ALC@line=\count110
+\c@ALC@rem=\count111
+\c@ALC@depth=\count112
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen134
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count115
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\backref.
+sty"
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count116
+ (url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen135
+\Fld@menulength=\count117
+\Field@Width=\dimen136
+\Fld@charsize=\dimen137
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
+\Hy@SectionHShift=\skip49
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen138
+\extrarowheight=\dimen139
+\NC@list=\toks24
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow
+.sty"
+\bigstrutjot=\dimen140
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics
+.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cf
+g"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `dvipsname' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl
+.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks25
+\minrowclearance=\skip52
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count123
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\subfig.sty
+"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.
+sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen143
+\captionmargin@=\dimen144
+\captionwidth=\dimen145
+\caption@tempdima=\dimen146
+\caption@indent=\dimen147
+\caption@parindent=\dimen148
+\caption@hangindent=\dimen149
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count124
+\sf@farskip=\skip53
+\sf@captopadj=\dimen150
+\sf@capskip=\skip54
+\sf@nearskip=\skip55
+\c@subfigure=\count125
+\c@subfigure@save=\count126
+\c@lofdepth=\count127
+\c@subtable=\count128
+\c@subtable@save=\count129
+\c@lotdepth=\count130
+\sf@top=\skip56
+\sf@bottom=\skip57
+) (Learning-To-Hash.aux)
+\openout1 = `Learning-To-Hash.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+
+-- Lines per column: 61 (exact).
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count131
+\scratchdimen=\dimen151
+\scratchbox=\box32
+\nofMPsegments=\count132
+\nofMParguments=\count133
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count134
+\MPscratchDim=\dimen152
+\MPnumerator=\count135
+\makeMPintoPDFobject=\count136
+\everyMPtoPDFconversion=\toks27
+)
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring ON on input line 387.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count137
+)
+LaTeX Info: Redefining \ref on input line 387.
+LaTeX Info: Redefining \pageref on input line 387.
+LaTeX Info: Redefining \nameref on input line 387.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 534.
+
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 534.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 53
+4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 534.
+ ("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 534.
+
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+pzd on input line 534.
+ ("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 534.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 534.
+
+ ("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd
+"
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/it' in size <8.03> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 534.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 560.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
+
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 560.
+ [1{C:/Users/jingdw/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 695.
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 697
+.
+
+<figs/multiTableLookup.pdf, id=94, 500.87125pt x 317.185pt>
+File: figs/multiTableLookup.pdf Graphic file (type pdf)
+
+<use figs/multiTableLookup.pdf>
+Package pdftex.def Info: figs/multiTableLookup.pdf used on input line 772.
+(pdftex.def)             Requested size: 207.17084pt x 131.19373pt.
+
+<figs/singleTableLookup.pdf, id=96, 500.87125pt x 317.185pt>
+File: figs/singleTableLookup.pdf Graphic file (type pdf)
+
+<use figs/singleTableLookup.pdf>
+Package pdftex.def Info: figs/singleTableLookup.pdf used on input line 773.
+(pdftex.def)             Requested size: 207.17084pt x 131.19373pt.
+
+<figs/hashCodeRanking.pdf, id=98, 501.875pt x 317.185pt>
+File: figs/hashCodeRanking.pdf Graphic file (type pdf)
+
+<use figs/hashCodeRanking.pdf>
+Package pdftex.def Info: figs/hashCodeRanking.pdf used on input line 774.
+(pdftex.def)             Requested size: 207.17084pt x 130.93237pt.
+
+<figs/nonExhaustiveSearch.pdf, id=100, 500.87125pt x 317.185pt>
+File: figs/nonExhaustiveSearch.pdf Graphic file (type pdf)
+
+<use figs/nonExhaustiveSearch.pdf>
+Package pdftex.def Info: figs/nonExhaustiveSearch.pdf used on input line 775.
+(pdftex.def)             Requested size: 207.17084pt x 131.19373pt.
+ [2] [3 <./figs/multiTableLookup.pdf> <./figs/singleTableLookup.pdf> <./figs/ha
+shCodeRanking.pdf> <./figs/nonExhaustiveSearch.pdf>] [4]
+LaTeX Font Info:    Calculating math sizes for size <7.02625> on input line 128
+9.
+
+Overfull \hbox (2.86656pt too wide) in paragraph at lines 1289--1386
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1413--1416
+[]\OT1/ppl/m/n/9.53561 Similarity-similarity dif-fer-ence min-i-miza-tion
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1451.
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 1452--1466
+\OT1/ppl/m/n/9.53561 The goal of spec-tral hash-ing [[][][]156[][]] is to min-i
+-mize
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 1470--1477
+\OT1/cmr/bx/n/10 S \OT1/cmr/m/n/10 = [\OML/cmm/m/it/10 s[]\OT1/cmr/m/n/10 ][]$ 
+\OT1/ppl/m/n/9.53561 is the sim-i-lar-ity ma-trix, and $\OT1/cmr/bx/n/10 D \OT1
+/cmr/m/n/10 =
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 1499--1500
+[]\OT1/ppl/m/n/9.53561 Find the prin-ci-pal com-po-nents of the $\OML/cmm/m/it/
+10 N$ $d$\OT1/ppl/m/n/9.53561 -
+ []
+
+[5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 1502) in paragraph at lines 1583--1594
+\OT1/ppl/m/n/9.53561 in-clud-ing sim-i-lar-ity graph ex-ten-sions [[][][]75[][]
+], [[][][]179[][]], [[][][]92[][]],
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 1736
+.
+("C:\Users\jingdw\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1746
+[]\OT1/ppl/b/n/9.53561 Comments: \OT1/ppl/m/n/9.53561 It is in-ter-est-ing to n
+ote that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1746
+[] \OMS/cmsy/m/n/10   [] [][] \OML/cmm/m/it/10 s[]d[]$ \OT1/ppl/m/n/9.53561 if 
+$\OT1/cmr/bx/n/10 y \OMS/cmsy/m/n/10 2 f\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OM
+S/cmsy/m/n/10  \OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 g[]$\OT1/ppl/m/n/9.53561 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1746
+\OT1/ppl/m/n/9.53561 where $[]$ is a con-stant vari-able (and thus
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 1733--1746
+[]\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 YSY[]\OT1/cmr/m/n/10 ) = [] \OMS/cmsy/m/n/1
+0   []\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 Y\OT1/cmr/m/n/10 (\OT1/cmr/bx/n/10 D \O
+MS/cmsy/m/n/10   \OT1/cmr/bx/n/10 S\OT1/cmr/m/n/10 )\OT1/cmr/bx/n/10 Y[]\OT1/cm
+r/m/n/10 )$\OT1/ppl/m/n/9.53561 ). In
+ []
+
+[7]
+Underfull \hbox (badness 5637) in paragraph at lines 1774--1784
+\OT1/ppl/m/n/9.53561 where $\OML/cmm/m/it/10 \OT1/cmr/bx/n/10 I$ \OT1/ppl/m/n/
+9.53561 is in-tro-duced as a reg-u-lar-iza-tion term,
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 1874--1884
+\OT1/ppl/m/n/9.53561 si-ble. This could be re-garded as a reg-u-lar-izer com-
+ []
+
+[8]
+Overfull \hbox (10.50955pt too wide) in paragraph at lines 1979--1979
+[] 
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 2034--2036
+\OT1/ppl/m/n/9.53561 The ob-jec-tive is to max-i-mize triple-similarity-triple-
+
+ []
+
+
+Overfull \hbox (9.59648pt too wide) in paragraph at lines 2091--2091
+[] 
+ []
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{equation.5.
+25}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.2125 
+       ]
+\c@Theorem=\count138
+ [10]
+Underfull \hbox (badness 2213) in paragraph at lines 2393--2404
+\OT1/ppl/m/n/9.53561 Cartesian quan-ti-za-tion refers to a class of quan-ti-za-
+
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 2393--2404
+\OT1/ppl/m/n/9.53561 tion al-go-rithms in which the com-posed dic-tio-nary $\OM
+S/cmsy/m/n/10 C$
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 2393--2404
+\OT1/ppl/m/n/9.53561 source dic-tio-nar-ies $\OMS/cmsy/m/n/10 fC[]\OML/cmm/m/it
+/10 ; \OMS/cmsy/m/n/10 C[]\OML/cmm/m/it/10 ; []  ; \OMS/cmsy/m/n/10 C[]g$\OT1/p
+pl/m/n/9.53561 : $\OMS/cmsy/m/n/10 C \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 C[]  C
+[] 
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 2393--2404
+[] \OMS/cmsy/m/n/10  C[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 (
+\OT1/cmr/bx/n/10 c[]\OML/cmm/m/it/10 ; \OT1/cmr/bx/n/10 c[]\OML/cmm/m/it/10 ; [
+]  ; \OT1/cmr/bx/n/10 c[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 g$\OT1/ppl/m/n/9.535
+61 , where $\OMS/cmsy/m/n/10 C[] \OT1/cmr/m/n/10 =
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 2405--2429
+[]\OT1/ppl/m/n/9.53561 The ben-e-fits in-clude that (1) $\OML/cmm/m/it/10 P$ \O
+T1/ppl/m/n/9.53561 small dic-tio-nar-
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 2405--2429
+\OT1/ppl/m/n/9.53561 larger dic-tio-nary with $[][] \OML/cmm/m/it/10 K[]$ \OT1/
+ppl/m/n/9.53561 dic-tio-nary items; (2)
+ []
+
+[11]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2553.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 2553.
+
+<figs/PQ.pdf, id=662, 352.31625pt x 334.24875pt>
+File: figs/PQ.pdf Graphic file (type pdf)
+ <use figs/PQ.pdf>
+Package pdftex.def Info: figs/PQ.pdf used on input line 2568.
+(pdftex.def)             Requested size: 75.88426pt x 71.98958pt.
+
+<figs/CKM.pdf, id=664, 354.32375pt x 338.26375pt>
+File: figs/CKM.pdf Graphic file (type pdf)
+ <use figs/CKM.pdf>
+Package pdftex.def Info: figs/CKM.pdf used on input line 2569.
+(pdftex.def)             Requested size: 75.88426pt x 72.44139pt.
+
+<figs/CQ.pdf, id=666, 352.31625pt x 334.24875pt>
+File: figs/CQ.pdf Graphic file (type pdf)
+ <use figs/CQ.pdf>
+Package pdftex.def Info: figs/CQ.pdf used on input line 2570.
+(pdftex.def)             Requested size: 75.88426pt x 71.98958pt.
+
+Underfull \hbox (badness 2376) in paragraph at lines 2598--2607
+[]\OT1/ppl/m/n/9.53561 Composite quan-ti-za-tion, prod-uct quan-ti-za-tion, and
+
+ []
+
+[12 <./figs/PQ.pdf> <./figs/CKM.pdf> <./figs/CQ.pdf>]
+Underfull \hbox (badness 5878) in paragraph at lines 2796--2805
+[]\OT1/ppl/m/n/9.53561 Pairwise sim-i-lar-ity pre-serv-ing. The similarity-
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 2796--2805
+\OT1/ppl/m/n/9.53561 similarity dif-fer-ence min-i-miza-tion cri-te-rion is
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 3083--3083
+[][][][][][]$\OT1/ppl/m/n/8.03 http : / / research . microsoft . com / []jingdw
+ / SimilarImageSearch /
+ []
+
+[14] <figs/nonUniformClusters.pdf, id=851, 304.13625pt x 399.4925pt>
+File: figs/nonUniformClusters.pdf Graphic file (type pdf)
+
+<use figs/nonUniformClusters.pdf>
+Package pdftex.def Info: figs/nonUniformClusters.pdf used on input line 3254.
+(pdftex.def)             Requested size: 101.17645pt x 132.89359pt.
+
+<figs/uniformClusters.pdf, id=853, 305.14pt x 397.485pt>
+File: figs/uniformClusters.pdf Graphic file (type pdf)
+
+<use figs/uniformClusters.pdf>
+Package pdftex.def Info: figs/uniformClusters.pdf used on input line 3255.
+(pdftex.def)             Requested size: 101.17645pt x 131.79515pt.
+ [15 <./figs/nonUniformClusters.pdf> <./figs/uniformClusters.pdf>]
+<figs/1MSIFT/1MSIFT128bits_more.pdf, id=947, 607.26875pt x 524.96124pt>
+File: figs/1MSIFT/1MSIFT128bits_more.pdf Graphic file (type pdf)
+
+<use figs/1MSIFT/1MSIFT128bits_more.pdf>
+Package pdftex.def Info: figs/1MSIFT/1MSIFT128bits_more.pdf used on input line 
+3424.
+(pdftex.def)             Requested size: 113.94632pt x 98.50208pt.
+
+<figs/Glove/Glove128bits_more.pdf, id=949, 616.3025pt x 533.995pt>
+File: figs/Glove/Glove128bits_more.pdf Graphic file (type pdf)
+
+<use figs/Glove/Glove128bits_more.pdf>
+Package pdftex.def Info: figs/Glove/Glove128bits_more.pdf used on input line 34
+25.
+(pdftex.def)             Requested size: 113.94632pt x 98.72234pt.
+
+<figs/ImageNet/imagenet64bits_more.pdf, id=951, 626.34pt x 547.04375pt>
+File: figs/ImageNet/imagenet64bits_more.pdf Graphic file (type pdf)
+
+<use figs/ImageNet/imagenet64bits_more.pdf>
+Package pdftex.def Info: figs/ImageNet/imagenet64bits_more.pdf used on input li
+ne 3426.
+(pdftex.def)             Requested size: 113.94632pt x 99.51537pt.
+
+<figs/ImageNet/imagenet_supervised.pdf, id=953, 627.34375pt x 544.0325pt>
+File: figs/ImageNet/imagenet_supervised.pdf Graphic file (type pdf)
+
+<use figs/ImageNet/imagenet_supervised.pdf>
+Package pdftex.def Info: figs/ImageNet/imagenet_supervised.pdf used on input li
+ne 3427.
+(pdftex.def)             Requested size: 113.94632pt x 98.80986pt.
+ [16] [17 <./figs/1MSIFT/1MSIFT128bits_more.pdf> <./figs/Glove/Glove128bits_mor
+e.pdf> <./figs/ImageNet/imagenet64bits_more.pdf> <./figs/ImageNet/imagenet_supe
+rvised.pdf>] (Learning-To-Hash.bbl
+(Learning-To-Hash.brf)
+\tf@brf=\write3
+\openout3 = `Learning-To-Hash.brf'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3673.
+
+[21
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3673.
+ (Learning-To-Hash.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3673.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3673.
+
+Package rerunfilecheck Info: File `Learning-To-Hash.brf' has not changed.
+(rerunfilecheck)             Checksum: C6999B4CCC3AFE2D7CF5089CCF019DEF;14426.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 2.6161pt have occurred.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3673.
+ ) 
+Here is how much of TeX's memory you used:
+ 9924 strings out of 493634
+ 151764 string characters out of 3134831
+ 290187 words of memory out of 3000000
+ 12826 multiletter control sequences out of 15000+200000
+ 63668 words of font info for 161 fonts, out of 3000000 for 9000
+ 1028 hyphenation exceptions out of 8191
+ 41i,17n,49p,1898b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8
+r.enc}<C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx7.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/jingdw/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jingdw/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/U
+sers/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi7.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jingdw/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jingdw/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
+/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy5.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jingdw/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/jingdw/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:
+/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/sym
+bols/msbm10.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/courier/ucrr8a.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/helvetic/uhvb8a.pfb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/jingdw/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/jingdw/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/jingdw/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/jing
+dw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Us
+ers/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.p
+fb><C:/Users/jingdw/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/zapfding/
+uzdr.pfb>
+Output written on Learning-To-Hash.pdf (21 pages, 2972635 bytes).
+PDF statistics:
+ 1524 PDF objects out of 1728 (max. 8388607)
+ 312 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+
